@@ -1,0 +1,23 @@
+{
+  "name": "project-3",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "preact": "^10.19.3",
+    "styled-components": "^6.1.8"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.8.1",
+    "vite": "^5.1.0"
+  },
+    "resolutions": {
+      "styled-components": "^5"
+    }
+  }
+
